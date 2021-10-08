@@ -1,4 +1,4 @@
-# Foundation-of-Database-
+# Introduction
 This repo wants to implement some basic and interesting algorithms for database research! 
 # Algorithm supported
   I am coding the following algorithms, they will be realized by C++!
