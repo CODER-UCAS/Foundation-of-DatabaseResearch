@@ -1,5 +1,5 @@
 # Introduction
-This repo wants to implement some basic and interesting algorithms for database research! 
+Now I focus on database research, in the meantime, I want to implement some basic algorithm in DB(DataBase) research.This repo wants to implement some basic and interesting algorithms for database research! 
 # Algorithm supported
   I am coding the following algorithms, they will be realized by C++!
   The following algorithms will be realized within a short time period!
